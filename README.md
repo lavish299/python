@@ -7,3 +7,4 @@
 #Three 
 
 Hi There !
+You can also find sorting algos in this repo
